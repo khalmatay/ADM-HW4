@@ -2,8 +2,8 @@
 
 ## Group 20 members
 1. Nurbek Khalmatay, 2184569, khalmatay.2184569@studenti.uniroma1.it
-2. Simone
-3. Amir
+2. Simone, 2014057, Mantero.2014057@studenti.uniroma1.it
+3. Amir, dalvand.2056639@studenti.uniroma1.it - He didn't do anything
 ---
 
 ![img.png](images/img.png)
