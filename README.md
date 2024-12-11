@@ -21,8 +21,6 @@ Welcome to the **ADM-HW4** project! This repository contains the solution to the
 ## Note to TA's and reviewers!!!
 Due to the fact that there were two of us (the third person disappeared), TA extended the deadline until Wednesday 23.59.
 Our Nbviewer [main.ipynb](https://nbviewer.org/github/khalmatay/ADM-HW4/blob/main/main.ipynb)
-First [section](https://nbviewer.org/github/khalmatay/ADM-HW4/blob/main/main-1.ipynb)
-
 
 
 
